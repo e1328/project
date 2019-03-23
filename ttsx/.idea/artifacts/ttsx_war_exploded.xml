@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ttsx:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ttsx_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ttsx/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ttsx" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/Java jar包/jsp-api.jar" />
+          <element id="file-copy" path="E:/Java jar包/jstl-1.2.jar" />
+          <element id="file-copy" path="E:/Java jar包/javax.mail.jar" />
+          <element id="file-copy" path="E:/Java jar包/servlet-api.jar" />
+          <element id="file-copy" path="E:/Java jar包/commons-codec-1.11.jar" />
+          <element id="file-copy" path="E:/Java jar包/mysql-connector-java-5.1.44-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
