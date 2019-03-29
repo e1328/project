@@ -1,0 +1,2 @@
+admin 123456
+jsu_admin 123456
